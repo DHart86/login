@@ -1,0 +1,97 @@
+body {
+  background-color: #298EEA;
+  font-family: arial;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 300;
+  margin-bottom: 45px;
+  font-size: 35px;
+  color: #333;
+}
+
+.formbutton {
+  width: 320px;
+  border: 2px solid #6db876;
+  background-color: #8be775;
+}
+
+.formtext {
+  width: 320px;
+  border: 2px solid #ccc;
+}
+
+.theform {
+  padding: 40px;
+  background-color: white;
+  width: 320px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 3px;
+}
+
+#getEmail {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  border: 2px solid lightgray;
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  font-size: 18px;
+}
+
+#getPW {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 320px;
+  border: 2px solid lightgray;
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  font-size: 18px;
+}
+
+button {
+  width: 320px;
+  height: 55px;
+  padding: 15px;
+  border: 2px solid #15CD72;
+  background-color: #15CD72;
+  border-radius: 3px;
+  font-size: 22px;
+  color: white;
+}
+
+button:hover {
+  background-color: #0cb863;
+}
+
+p {
+  text-align: center;
+  font-size: 14px;
+}
+
+a {
+  color: #999999;
+}
+
+a:hover {
+  color: #666666;
+}
+
+.footerText,
+.footerText > a {
+  font-size: 18px;
+  color: white;
+}
+
+.logo {
+  height: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
